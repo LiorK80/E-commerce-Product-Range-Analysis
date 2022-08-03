@@ -3,7 +3,7 @@ The purpose of this study is to identify best sellers vs. failed products, based
 
 <b>Files and links:</b>
 1) Notebook
-2) Presentation
+2) <a href="https://drive.google.com/file/d/1WZleTqxNs2e6k6iIyhXJQxpoGu2pkGAQ/view?usp=sharing">Presentation</a>
 3) <a href="https://public.tableau.com/views/E-commerceproductrangeanalysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Dashboard</a>
 
 <b>Tools:</b>
